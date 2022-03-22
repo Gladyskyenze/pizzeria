@@ -31,3 +31,32 @@ ul li{
     left: 10%;
     width: 33%;
 }
+
+.content h1{
+    font-size: 60px;
+}
+
+hr{
+    margin-top: 30px;
+    width: 90%;
+    height: 6px;
+    background: black;
+}
+.content p{
+    margin-top: 30px;
+    font-size: 30px;
+    
+
+}
+button{
+    margin-top: 20px;
+    background: rgb(219, 185, 121);
+    border: none;
+    outline: none;
+    letter-spacing: 0.04;
+    font-size: 20px;
+    padding: 15px 20px;
+}
+    
+
+
