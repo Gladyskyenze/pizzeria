@@ -25,3 +25,9 @@ ul li{
     cursor: pointer;
     font-size: 20px;
 }
+.content{
+    position: absolute;
+    top: 27vh;
+    left: 10%;
+    width: 33%;
+}
