@@ -27,3 +27,26 @@ ul li{
     cursor: pointer;
     font-size: 20px;
 }
+.contact {
+    
+    background-position: center;
+    height: 503px;
+    width: 1900px;
+    max-width: 100%;
+    max-height: 100%;
+    font-size: 18px;
+    text-align: center;
+}
+.socialicons {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    cursor: pointer;
+  
+    text-align: center;
+    justify-content: center;
+  }
+  footer {
+    font-size: 8px;
+    text-align: center;
+  }
