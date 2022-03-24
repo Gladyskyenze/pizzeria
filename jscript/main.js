@@ -1,12 +1,7 @@
-	//Validtion Code For Inputs
+$('#clients_details').submit(function () {
+    let clientName = $('#cusname').val();
+    let phoneNumber = $('#phonenumber').val();
 
-    let customerName = document.forms['form']['name'];
-    let phoneNumber = document.forms['form']['phonenum'];
-    
-    let name_error = document.getElementById('cusname');
-    let phone_error = document.getElementById('phonenumber');
-    
-    email.addEventListener('textInput', email_Verify);
-    password.addEventListener('textInput', pass_Verify);
-    
-    
+    alert(clientName + 'You will received a text concerning your order.');
+
+});
